@@ -1,6 +1,6 @@
 ### 👋 Hi there,
 
-I’m [Rahl](https://github.com/rahulwagh09/rahulwagh09), a Cloud Engineer from 🇮🇳, passionate about leveraging cloud technologies to build scalable, reliable, and cost-effective solutions. 
+I’m [Rahul](https://github.com/rahulwagh09/rahulwagh09), a Cloud Engineer from 🇮🇳, passionate about leveraging cloud technologies to build scalable, reliable, and cost-effective solutions. 
 With 1 year of professional experience, I specialize in AWS, automation using Terraform and Ansible, and implementing CI/CD pipelines. 🎯 
 
 I thrive in dynamic environments and am committed to continuous learning and collaboration to deliver innovative solutions.
