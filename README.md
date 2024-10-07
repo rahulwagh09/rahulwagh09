@@ -8,4 +8,7 @@ I thrive in dynamic environments and am committed to continuous learning and col
 
 💞️ I’m looking to collaborate on open-source DevOps projects, cloud infrastructure automation, and CI/CD pipelines
 
-📫 How to reach me: rahulwagh28032003@gmail.com | LinkedIn
+📫 How to reach me?
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-wagh-cloud-devops/)
+- Shoot Me an [Gmail](rahulwagh28032003@gmail.com)
+
