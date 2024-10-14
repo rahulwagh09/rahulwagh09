@@ -11,5 +11,5 @@ I thrive in dynamic environments and am committed to continuous learning and col
 
 ### 📫 How to reach me?
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/rahul-wagh-cloud-devops/)
-- Shoot Me an [Gmail](mailto:rahulwagh28032003@gmail.com)
+- Shoot Me an [Gmail]("mailto:rahulwagh28032003@gmail.com")
 
