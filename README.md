@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm [Rahul Wagh](https://github.com/rahulwagh09) 🚀  
 
-🌐 A passionate **Cloud and DevOps Engineer** from 🇮🇳, dedicated to leveraging cloud technologies for building scalable, secure, and efficient solutions. With hands-on experience in **AWS, Linux, Terraform, Kubernetes**, and **CI/CD pipelines**, I am committed to continuous learning and solving real-world challenges.
+🌐 A passionate **Cloud and DevOps Engineer** from 🇮🇳, dedicated to leveraging cloud technologies for building scalable, secure, and efficient solutions. With hands-on experience in **AWS, Linux, Terraform, Docker, Kubernetes**, and **CI/CD pipelines**, I am committed to continuous learning and solving real-world challenges.
 
 ---
 
